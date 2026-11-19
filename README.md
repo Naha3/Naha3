@@ -1,84 +1,141 @@
-<h1 align="center">Hi, I'm Naha 👋</h1>
-<h3 align="center">Salesforce Developer & Full-Stack Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/noman-hussain-606547289/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:naha1691anlm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Noman%20Hussain&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Salesforce%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" alt="Noman Hussain banner" width="100%"/>
+
+<a href="https://github.com/Naha3">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=5AC8FA&center=true&vCenter=true&width=600&lines=Salesforce+Developer;Full-Stack+Engineer;AI+%26+Machine+Learning+Enthusiast;Backend+%26+API+Developer;Cloud+Application+Developer" alt="Typing SVG" />
+</a>
+
+<p><i>Building enterprise Salesforce integrations, AI-driven applications, and full-stack systems that solve real business problems.</i></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/noman-hussain-606547289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:naha1691anlm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Naha3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Naha3/personal_portfolio"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
----
+</div>
 
-### 🚀 About Me
+<br/>
 
-- 🔭 I build **Salesforce Service Cloud integrations** — Apex, Lightning Web Components, and Meta Graph API messaging channels (WhatsApp & Instagram) that connect businesses to their customers.
-- 🤖 I also design and ship **AI-driven full-stack systems** — most recently an e-commerce recommendation & demand-prediction platform that adapts to shifting seasonal demand.
-- 🌱 Currently deepening my work in **Agentforce / conversational commerce** and **cloud architecture (Azure)**.
-- 💬 Comfortable across the stack: backend APIs, frontend apps, and Salesforce declarative + programmatic development.
-- ⚡ Fun fact: I enjoy turning messy, undocumented systems into clean architecture diagrams and runbooks.
+## 👋 About Me
 
----
+I'm a **Salesforce Developer & Full-Stack Engineer** focused on building reliable enterprise systems and AI-driven applications.
 
-### 🛠️ Tech Stack
+- 🔧 Building **Salesforce Service Cloud** solutions with **Apex** and **Lightning Web Components (LWC)**
+- 🔗 Designing **enterprise API integrations**, including **WhatsApp & Instagram messaging** via the **Meta Graph API**
+- 🤖 Developing **AI-driven recommendation & demand-forecasting systems** for e-commerce
+- 🧱 Shipping **full-stack applications** end-to-end — backend APIs, frontend apps, and data layers
+- ☁️ Exploring **Agentforce** and modern **cloud architecture**
 
-**Salesforce**
+<br/>
+
+## 🧠 Technical Skills
+
+**Salesforce Development**
 
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Service Cloud](https://img.shields.io/badge/Service%20Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Integrations](https://img.shields.io/badge/Salesforce%20Integrations-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Meta Graph API](https://img.shields.io/badge/Meta%20Graph%20API-1877F2?style=flat-square&logo=meta&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
-**Full-Stack Development**
+**Full-Stack · AI/ML · Cloud & Tools**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nestjs,python,fastapi,mongodb,azure,gcp,git,github" alt="Tech stack icons"/>
 
-**Tools & Cloud**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Demand Forecasting](https://img.shields.io/badge/Demand%20Forecasting-6A5ACD?style=flat-square)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-6A5ACD?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<br/>
 
----
+## 🚀 Featured Projects
 
-### 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/Naha3/Frontend-AI-Powered-E-Commerce-Recommendation-Demand-Prediction-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=Frontend-AI-Powered-E-Commerce-Recommendation-Demand-Prediction-System&theme=tokyonight&hide_border=true" alt="AI-Powered E-Commerce Recommendation & Demand Prediction"/>
+  </a>
+  <a href="https://github.com/Naha3/Chattract">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=Chattract&theme=tokyonight&hide_border=true" alt="Chattract"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Naha3/ecommerce_fastapi_backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=ecommerce_fastapi_backend&theme=tokyonight&hide_border=true" alt="E-Commerce FastAPI Backend"/>
+  </a>
+  <a href="https://github.com/Naha3/personal_portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=personal_portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Naha3/Eid-ul-Adha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=Eid-ul-Adha&theme=tokyonight&hide_border=true" alt="Eid-ul-Adha"/>
+  </a>
+  <a href="https://github.com/Naha3/for-Autism-Detection-system-ATS-_models">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=for-Autism-Detection-system-ATS-_models&theme=tokyonight&hide_border=true" alt="Autism Detection System Models"/>
+  </a>
+</p>
 
-| Project | Description |
+> 🌟 **Flagship project:** [AI-Powered E-Commerce Recommendation & Demand Prediction](https://github.com/Naha3/Frontend-AI-Powered-E-Commerce-Recommendation-Demand-Prediction-System) — a multi-vendor marketplace recommendation engine with demand forecasting that adapts to shifting seasonal sales patterns such as Ramzan and Eid.
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naha3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naha3's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naha3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naha3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naha3&theme=react-dark&hide_border=true" alt="Contribution activity graph" width="100%"/>
+</p>
+
+<br/>
+
+## 🧭 Professional Journey
+
+| Focus Area | What I Work On |
 |---|---|
-| **[AI-Powered E-Commerce Recommendation & Demand Prediction](https://github.com/Naha3/Frontend-AI-Powered-E-Commerce-Recommendation-Demand-Prediction-System)** | Final-year project: a multi-vendor marketplace recommendation engine with demand forecasting that adapts to shifting lunar-calendar sales seasons (Ramzan/Eid). |
-| **[Chattract](https://github.com/Naha3/Chattract)** | A real-time chat application. |
-| **[E-Commerce FastAPI Backend](https://github.com/Naha3/ecommerce_fastapi_backend)** | Python/FastAPI backend service for an e-commerce platform. |
-| **[Personal Portfolio](https://github.com/Naha3/personal_portfolio)** | My personal portfolio website. |
-| **[Eid-ul-Adha](https://github.com/Naha3/Eid-ul-Adha)** | A festive web page built for Eid-ul-Adha. |
-| **[EID](https://github.com/Naha3/EID)** | A festive Eid-themed web page. |
-| **[Birthday](https://github.com/Naha3/birthday)** | A birthday-themed web page. |
-| **[Bulk Mail](https://github.com/Naha3/bulk_mail)** | A Python script for sending bulk emails. |
-| **[Autism Detection System (ATS) Models](https://github.com/Naha3/for-Autism-Detection-system-ATS-_models)** | Machine learning models for an Autism Detection System. |
-| **[Final Year Project Models](https://github.com/Naha3/Final_year_Project_Models)** | Machine learning models from an earlier final-year project. |
+| **Salesforce Development** | Service Cloud, Apex, Lightning Web Components |
+| **Enterprise API Integrations** | Meta Graph API, webhook-based integration architecture |
+| **Messaging Platform Integrations** | WhatsApp Business API, Instagram messaging |
+| **Full-Stack Application Development** | React, Node.js/Express, NestJS, FastAPI |
+| **AI & Predictive Analytics** | Recommendation systems, demand forecasting |
+| **Cloud-Based Architecture** | Microsoft Azure, Google Cloud Platform |
 
-> 📌 Tip: open your GitHub profile → click **"Customize your pins"** → pick your favorites so they show as cards right under this README.
+<br/>
 
----
+## 🔭 Currently Exploring
 
-### 📊 GitHub Stats
+![Agentforce](https://img.shields.io/badge/Salesforce%20Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Conversational Commerce](https://img.shields.io/badge/Conversational%20Commerce-6A5ACD?style=flat-square)
+![AI Business Apps](https://img.shields.io/badge/AI%20Powered%20Business%20Apps-FF6F00?style=flat-square)
+![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Scalable Backend](https://img.shields.io/badge/Scalable%20Backend%20Architecture-333333?style=flat-square)
+![Demand Forecasting](https://img.shields.io/badge/Advanced%20Demand%20Forecasting-6A5ACD?style=flat-square)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naha3&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Naha3's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naha3&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naha3&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📫 Let's Connect
 
----
+<div align="center">
 
-<p align="center"><i>Open to Salesforce development and full-stack engineering opportunities — feel free to reach out!</i></p>
+<a href="https://www.linkedin.com/in/noman-hussain-606547289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:naha1691anlm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Naha3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<p><i>Open to Salesforce development and full-stack engineering opportunities — feel free to reach out and let's build something great together.</i></p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" alt="footer" width="100%"/>
