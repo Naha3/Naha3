@@ -21,14 +21,13 @@
 
 ## 👋 About Me
 
-I'm a **Salesforce Developer & Full-Stack Engineer** focused on building reliable enterprise systems and AI-driven applications.
+I'm a **Salesforce Developer & Full-Stack Engineer** focused on building reliable **enterprise solutions and AI-driven applications** that solve real business problems.
 
-- 🔧 Building **Salesforce Service Cloud** solutions with **Apex** and **Lightning Web Components (LWC)**
-- 🔗 Designing **enterprise API integrations**, including **WhatsApp & Instagram messaging** via the **Meta Graph API**
-- 🤖 Developing **AI-driven recommendation & demand-forecasting systems** for e-commerce
-- 🧱 Shipping **full-stack applications** end-to-end — backend APIs, frontend apps, and data layers
-- ☁️ Exploring **Agentforce** and modern **cloud architecture**
-
+- 🔧 Building **Salesforce Service Cloud solutions** that streamline business processes, improve customer operations, and support scalable enterprise workflows
+- 🔗 Designing **enterprise integration solutions** that connect business systems, automate workflows, and enable seamless data exchange across platforms
+- 🤖 Developing **AI-driven business solutions** for intelligent recommendations, demand forecasting, and data-informed decision-making
+- 🧱 Delivering **scalable digital solutions end-to-end** — transforming business requirements into reliable, user-focused products and enterprise applications
+- ☁️ Exploring **AI-powered enterprise automation** and modern cloud solutions to improve operational efficiency and enable smarter business processes
 <br/>
 
 ## 🧠 Technical Skills
