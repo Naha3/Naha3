@@ -53,36 +53,6 @@ I'm a **Salesforce Developer & Full-Stack Engineer** focused on building reliabl
 
 <br/>
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Naha3/Frontend-AI-Powered-E-Commerce-Recommendation-Demand-Prediction-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=Frontend-AI-Powered-E-Commerce-Recommendation-Demand-Prediction-System&theme=tokyonight&hide_border=true" alt="AI-Powered E-Commerce Recommendation & Demand Prediction"/>
-  </a>
-  <a href="https://github.com/Naha3/Chattract">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=Chattract&theme=tokyonight&hide_border=true" alt="Chattract"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Naha3/ecommerce_fastapi_backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=ecommerce_fastapi_backend&theme=tokyonight&hide_border=true" alt="E-Commerce FastAPI Backend"/>
-  </a>
-  <a href="https://github.com/Naha3/personal_portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=personal_portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Naha3/Eid-ul-Adha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=Eid-ul-Adha&theme=tokyonight&hide_border=true" alt="Eid-ul-Adha"/>
-  </a>
-  <a href="https://github.com/Naha3/for-Autism-Detection-system-ATS-_models">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naha3&repo=for-Autism-Detection-system-ATS-_models&theme=tokyonight&hide_border=true" alt="Autism Detection System Models"/>
-  </a>
-</p>
-
-> 🌟 **Flagship project:** [AI-Powered E-Commerce Recommendation & Demand Prediction](https://github.com/Naha3/Frontend-AI-Powered-E-Commerce-Recommendation-Demand-Prediction-System) — a multi-vendor marketplace recommendation engine with demand forecasting that adapts to shifting seasonal sales patterns such as Ramzan and Eid.
-
-<br/>
 
 ## 📊 GitHub Analytics
 
