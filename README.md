@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Noman%20Hussain&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Salesforce%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" alt="Noman Hussain banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Noman%20Hussain&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Salesforce%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" alt="Noman Hussain banner" width="100%"/>
 
 <a href="https://github.com/Naha3">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=5AC8FA&center=true&vCenter=true&width=600&lines=Salesforce+Developer;Full-Stack+Engineer;AI+%26+Machine+Learning+Enthusiast;Backend+%26+API+Developer;Cloud+Application+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=5AC8FA&center=true&vCenter=true&width=600&lines=Salesforce+Developer;Full-Stack+Engineer;AI+and+Machine+Learning+Enthusiast;Backend+and+API+Developer;Cloud+Application+Developer" alt="Typing SVG" />
 </a>
 
 <p><i>Building enterprise Salesforce integrations, AI-driven applications, and full-stack systems that solve real business problems.</i></p>
