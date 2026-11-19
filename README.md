@@ -57,10 +57,14 @@
 | **[Chattract](https://github.com/Naha3/Chattract)** | A real-time chat application. |
 | **[E-Commerce FastAPI Backend](https://github.com/Naha3/ecommerce_fastapi_backend)** | Python/FastAPI backend service for an e-commerce platform. |
 | **[Personal Portfolio](https://github.com/Naha3/personal_portfolio)** | My personal portfolio website. |
-| **[NestJS Backend](https://github.com/Naha3/nest_backendTest)** | Backend service built with NestJS. |
-| **[Express Backend](https://github.com/Naha3/express_backend_project)** | REST API built with Express.js. |
+| **[Eid-ul-Adha](https://github.com/Naha3/Eid-ul-Adha)** | A festive web page built for Eid-ul-Adha. |
+| **[EID](https://github.com/Naha3/EID)** | A festive Eid-themed web page. |
+| **[Birthday](https://github.com/Naha3/birthday)** | A birthday-themed web page. |
+| **[Bulk Mail](https://github.com/Naha3/bulk_mail)** | A Python script for sending bulk emails. |
+| **[Autism Detection System (ATS) Models](https://github.com/Naha3/for-Autism-Detection-system-ATS-_models)** | Machine learning models for an Autism Detection System. |
+| **[Final Year Project Models](https://github.com/Naha3/Final_year_Project_Models)** | Machine learning models from an earlier final-year project. |
 
-> 📌 Tip: open your GitHub profile → click **"Customize your pins"** → pick these 6 so they show as cards right under this README.
+> 📌 Tip: open your GitHub profile → click **"Customize your pins"** → pick your favorites so they show as cards right under this README.
 
 ---
 
